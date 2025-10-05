@@ -1,0 +1,15 @@
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\bin\Debug\net8.0\Infrastructure.Library.deps.json
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\bin\Debug\net8.0\Infrastructure.Library.dll
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\bin\Debug\net8.0\Infrastructure.Library.pdb
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\bin\Debug\net8.0\Shared.Library.dll
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\bin\Debug\net8.0\Shared.Library.pdb
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\obj\Debug\net8.0\Infrastructure.Library.csproj.AssemblyReference.cache
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\obj\Debug\net8.0\Infrastructure.Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\obj\Debug\net8.0\Infrastructure.Library.AssemblyInfoInputs.cache
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\obj\Debug\net8.0\Infrastructure.Library.AssemblyInfo.cs
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\obj\Debug\net8.0\Infrastructure.Library.csproj.CoreCompileInputs.cache
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\obj\Debug\net8.0\Infrastr.7BAECD68.Up2Date
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\obj\Debug\net8.0\Infrastructure.Library.dll
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\obj\Debug\net8.0\refint\Infrastructure.Library.dll
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\obj\Debug\net8.0\Infrastructure.Library.pdb
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Infrastructure.Library\obj\Debug\net8.0\ref\Infrastructure.Library.dll

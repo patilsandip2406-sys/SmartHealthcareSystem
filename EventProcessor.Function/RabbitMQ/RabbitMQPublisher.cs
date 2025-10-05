@@ -1,0 +1,63 @@
+﻿using RabbitMQ.Client;
+using System;
+using System.Text;
+using System.Threading.Tasks;
+
+public class RabbitMQPublisher
+{
+    private readonly string _hostName;
+    private readonly string _userName;
+    private readonly string _password;
+    private readonly string _queueName;
+
+    public RabbitMQPublisher(string hostName, string userName, string password, string queueName)
+    {
+        _hostName = hostName;
+        _userName = userName;
+        _password = password;
+        _queueName = queueName;
+    }
+
+    //public void PublishMessage(string message)
+    //{
+    //    var factory = new ConnectionFactory()
+    //    {
+    //        HostName = _hostName,
+    //        UserName = _userName,
+    //        Password = _password,
+    //    };
+
+    //    using var connection = factory.CreateConnectionAsync();
+    //    using var channel = connection.CreateModel();
+    //    channel.QueueDeclare(queue: _queueName, durable: false, exclusive: false, autoDelete: false, arguments: null);
+
+    //    var body = Encoding.UTF8.GetBytes(message);
+    //    channel.BasicPublish(exchange: "", routingKey: _queueName, basicProperties: null, body: body);
+    //    Console.WriteLine($"Sent: {message}");
+    //}
+
+    public void PublishMessage(string message)
+    {
+        var factory = new ConnectionFactory() { HostName = _hostName };
+
+        // Synchronous connection
+        using var connection = factory.CreateConnectionAsync().GetAwaiter().GetResult();
+        using var channel = connection.CreateChannelAsync().GetAwaiter().GetResult(); ;
+
+        channel.QueueDeclareAsync(queue: _queueName,
+                             durable: false,
+                             exclusive: false,
+                             autoDelete: false,
+                             arguments: null);
+
+        var body = Encoding.UTF8.GetBytes(message);
+        //channel.BasicPublish(exchange: "",
+        //                     routingKey: _queueName,
+        //                     mandatory:null,
+        //                     basicProperties: null,
+        //                     body: body, cancellationToken : default);
+
+
+        Console.WriteLine($"Sent: {message}");
+    }
+}
