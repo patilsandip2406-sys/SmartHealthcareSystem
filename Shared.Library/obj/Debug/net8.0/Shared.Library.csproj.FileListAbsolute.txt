@@ -1,0 +1,11 @@
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\bin\Debug\net8.0\Shared.Library.deps.json
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\bin\Debug\net8.0\Shared.Library.dll
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\bin\Debug\net8.0\Shared.Library.pdb
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\obj\Debug\net8.0\Shared.Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\obj\Debug\net8.0\Shared.Library.AssemblyInfoInputs.cache
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\obj\Debug\net8.0\Shared.Library.AssemblyInfo.cs
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\obj\Debug\net8.0\Shared.Library.csproj.CoreCompileInputs.cache
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\obj\Debug\net8.0\Shared.Library.dll
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\obj\Debug\net8.0\refint\Shared.Library.dll
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\obj\Debug\net8.0\Shared.Library.pdb
+E:\Study\DotNet\Projects\healthcare-claims\SmartHealthcareSystem\Shared.Library\obj\Debug\net8.0\ref\Shared.Library.dll
