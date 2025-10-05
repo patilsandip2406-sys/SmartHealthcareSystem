@@ -1,0 +1,39 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "UserService.API\\UserService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PatientService.API\\PatientService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ClaimService.API\\ClaimService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "NotificationService.API\\NotificationService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Ocelot.API\\Ocelot.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EventProcessor.Function\\EventProcessor.Function.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AIService\\AIService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RagService\\RagService.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
