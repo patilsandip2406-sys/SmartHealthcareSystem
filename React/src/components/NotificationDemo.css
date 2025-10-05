@@ -1,0 +1,25 @@
+.notification-box {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.input {
+  padding: 10px;
+  flex: 1;
+  border: 1px solid #cbd5e0;
+  border-radius: 6px;
+}
+
+.btn {
+  padding: 10px 15px;
+  background: #3182ce;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #2b6cb0;
+}
